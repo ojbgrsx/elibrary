@@ -1,0 +1,8 @@
+package com.example.elibrary.enums;
+
+public enum Role {
+    ROLE_ADMIN,
+    ROLE_MANAGER,
+    ROLE_STUDENT,
+    ROLE_LECTOR
+}
